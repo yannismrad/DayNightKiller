@@ -14,9 +14,9 @@ As the demon, use the left click for primary attack, and right click for seconda
 As a villager, use left click to fire magical balls once you are able to.
 
 ##Authors
-Julie BRILLION
-Yannis M'RAD
-Dorian MENARGUES
+Julie BRILLION,
+ Yannis M'RAD,
+ Dorian MENARGUES
 
 ##Notes
 This is a prototype game, developped for a course in video games development.
