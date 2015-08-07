@@ -11,7 +11,7 @@ you'll be hunt down !
 ##Controls
 Use WASD or arrow keys to move your character.
 As the demon, use the left click for primary attack, and right click for secondary attack.
-As a villager, use left click to fire magical balls once you are able to.
+As a villager, use left click to fire magical balls once you are able to use them.
 
 ##Authors
 Julie BRILLION,
@@ -20,4 +20,4 @@ Julie BRILLION,
 
 ##Notes
 This is a prototype game, developped for a course in video games development.
-There is only one playable level, and many features are to be improved.
+There is only one playable level, and many features need to be improved.
